@@ -29,6 +29,3 @@ Thumbs.db
 
 
 /app/Http/Controllers/*
-
-/routes/api.php
-/routes/web.php
