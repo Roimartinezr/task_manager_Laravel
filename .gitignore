@@ -3,6 +3,7 @@
 .env
 .env.backup
 .env.production
+.env.example
 .phpactor.json
 .phpunit.result.cache
 /.codex
@@ -28,9 +29,6 @@ Thumbs.db
 
 
 /app/Http/Controllers/*
-
-/database/migrations/2026_06_09_102100_create_tasks_table.php
-/database/migrations/2026_06_09_122151_create_personal_access_tokens_table.php
 
 /routes/api.php
 /routes/web.php
